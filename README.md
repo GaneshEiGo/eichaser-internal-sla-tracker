@@ -35,6 +35,15 @@
 </div>
 
 ---
+## 🚀 LIVE PRODUCT
+
+<p align="center">
+
+### **[▶ LAUNCH EICHASER UNIVERSAL](https://eichaser-app-sla-tracker-bjptnhzercsdv2xq5rahmu.streamlit.app/)**
+
+**Interactive AI-powered Commitment & SLA Intelligence Platform**
+
+</p>
 
 ## 📖 Table of Contents
 
